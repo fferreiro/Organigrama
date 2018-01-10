@@ -1,0 +1,2 @@
+module MovcOrganigramasHelper
+end

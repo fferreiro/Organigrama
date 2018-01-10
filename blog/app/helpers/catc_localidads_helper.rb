@@ -1,0 +1,2 @@
+module CatcLocalidadsHelper
+end
